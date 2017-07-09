@@ -1,1 +1,12 @@
-{ Filter = { Bundles = ( "ph.telegra.Telegraph", "org.telegram.TelegramEnterprise" ); }; }
+{ Filter = { Bundles = (
+  "ph.telegra.Telegraph",
+  "org.telegram.TelegramEnterprise",
+  "pro.shahho.org.telegram.TelegramEnterprise",
+  "com.flankerch.telegram",
+  "ir.faraaz.mobilegram",
+  "com.mubiquo.telegram",
+  "com.loopy.secondid",
+  "ir.softwareco.telegram",
+  "mahdi.mygram.telegram.TelegramEnterprise",
+  );
+}; }

@@ -1,7 +1,8 @@
 Package: rocks.stek29.tgneverexplicit
 Name: TGNeverExplicit
 Depends: mobilesubstrate
-Version: 0.0.2
+Conflicts: com.ideviceteam.telexplicit
+Version: 0.0.3
 Architecture: iphoneos-arm
 Description: Unrestrict all bots and channels in Telegram
 Maintainer: Viktor Oreshkin
